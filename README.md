@@ -23,10 +23,7 @@ const Contact = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCOR3&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
 </p>
 
-### ☕ Get In Touch
-[![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Buzeti-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgebuzeti/)](https://www.linkedin.com/in/jorgebuzeti/)
-[![Gmail Badge](https://img.shields.io/badge/-jobuzetiuol123@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:jobuzetiuol123@gmail.com)
-[![HackTheBox Badge](https://img.shields.io/badge/-XCOR3-9fef00?style=flat-square&logo=Hack-The-Box&logoColor=white&link=https://www.hackthebox.eu/home/users/profile/380585)](https://www.hackthebox.eu/home/users/profile/380585)
+
 
 
 ⭐️ From [XCOR3](https://github.com/XCOR3)
