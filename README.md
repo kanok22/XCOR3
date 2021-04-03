@@ -29,4 +29,4 @@ const Contact = {
 [![HackTheBox Badge](https://img.shields.io/badge/-XCOR3-9fef00?style=flat-square&logo=Hack-The-Box&logoColor=white&link=https://www.hackthebox.eu/home/users/profile/380585)](https://www.hackthebox.eu/home/users/profile/380585)
 
 
-⭐️ From [R3tr0 (Jorge Buzeti)](https://github.com/XCOR3)
+⭐️ From [XCOR3](https://github.com/XCOR3)
