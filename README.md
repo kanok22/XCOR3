@@ -6,7 +6,7 @@
  ------------
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-#### I am Full Stack Dev, Linux lover, Passionate about technology and entrepreneurship, student of the entire programming ecosystem and CyberSecurity.
+#### I am passionate about technology and entrepreneurship, student of the programming and CyberSecurity.
 
  # 👨‍💻 Languages and Tools: <div align="center">  [![Git](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://wiki.python.org/moin/BeginnersGuide) [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)](https://www.kernel.org/doc/html/latest/)
 
