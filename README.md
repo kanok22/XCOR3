@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-<a href="https://github.com/luiz1n/github-readme-stats"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luiz1n&count_private=true&show_icons=true&theme=dracula" />
+<a href="https://github.com/XCOR3/github-readme-stats"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=XCOR3&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/luiz1n/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1n&theme=dracula" />
+<a href="https://github.com/XCOR3/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCOR3&theme=dracula" />
 </a>
+
 
 - 🌱 I’m currently learning python
 <!--
