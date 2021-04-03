@@ -8,7 +8,7 @@
 
 #### I am Full Stack Dev, Linux lover, Passionate about technology and entrepreneurship, student of the entire programming ecosystem and CyberSecurity.
 
- # 👨‍💻 Languages and Tools: <div align="center">  [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=Git)](https://git-scm.com/) [![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)](https://www.kernel.org/doc/html/latest/)
+ # 👨‍💻 Languages and Tools: <div align="center">  [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![Linux](https://img.shields.io/badge/-linux-%231572B6?style=flat-square&logo=linux)](https://www.kernel.org/doc/html/latest/)
 
 </div>
 
