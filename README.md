@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm XCOR3</h1>
 
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XCOR3&label=Profile%20views&color=0e75b6&style=flat" alt="XCOR3" /> </p>
+</br>
 
 
 <h3 align="left">Languages and Tools:</h3>
