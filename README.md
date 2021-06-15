@@ -12,7 +12,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=XCOR3&show_icons=true&locale=en" alt="darkarp" /></p>
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugollemos&layout=compact&show_icons=true&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCOR3&layout=compact&show_icons=true&hide_border=true"
     />
 </center>
 <br>
